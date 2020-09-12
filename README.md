@@ -1,1 +1,1 @@
-# AI_Face_recgonition by Python lib-- face_recogonition
+# AI_Face_recognition by Python lib-- face_recogonition
